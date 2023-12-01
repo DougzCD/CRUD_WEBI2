@@ -16,8 +16,8 @@ Esta aplicação realiza operações CRUD (Create, Read, Update, Delete) em um b
 
 ## Rotas
 
-- POST /usuarios: Cria um novo usuário.
-- GET /usuarios: Obtém todos os usuários.
-- GET /usuarios/:id: Obtém um usuário específico.
-- PATCH /usuarios/:id: Atualiza um usuário.
-- DELETE /usuarios/:id: Deleta um usuário.
+- POST /usuarios Cria um novo usuário.
+- GET /usuarios Obtém todos os usuários.
+- GET /usuarios/:id Obtém um usuário específico.
+- PATCH /usuarios/:id Atualiza um usuário.
+- DELETE /usuarios/:id Deleta um usuário.
